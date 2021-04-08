@@ -87,7 +87,7 @@ using NBInclude
 
 <table> 
     <tr>
-    <td align="center"><a http://lattes.cnpq.br/9458204748985902><img src= https://avatars.githubusercontent.com/u/23129808?s=400&u=739133cee3ef3858b8a277dba0b7388145a503fa&v=4><sub><b>Luiz Alexandre Moreira Barros</b></td>
-    <td align="center"><a http://lattes.cnpq.br/6695247122647476 ><img src= http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8211460U6 ><sub><b> Raphael Douglas de Freitas Lucena</b></td>
+    <td align="center"><a http://lattes.cnpq.br/9458204748985902><img src= https://avatars.githubusercontent.com/u/23129808?s=400&u=739133cee3ef3858b8a277dba0b7388145a503fa&v=4 width="100px ><sub><b>Luiz Alexandre Moreira Barros</b></td>
+    <td align="center"><a http://lattes.cnpq.br/6695247122647476 ><img src= http://servicosweb.cnpq.br/wspessoa/servletrecuperafoto?tipo=1&id=K8211460U6 width="100px ><sub><b> Raphael Douglas de Freitas Lucena</b></td>
     </tr>
 </table>
